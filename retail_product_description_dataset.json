@@ -1,0 +1,84 @@
+{
+  "products": [
+    {
+      "name": "Wireless Earbuds",
+      "brief_description": "High-fidelity wireless earbuds with noise-canceling technology and long battery life.",
+      "reference_descriptions": [
+        "Experience the ultimate in wireless freedom with our high-fidelity earbuds. Featuring noise-canceling technology and up to 20 hours of battery life, these earbuds are perfect for music lovers on the go.",
+        "Our wireless earbuds offer superior sound quality and comfort. With easy touch controls and a sleek design, enjoy your favorite tunes anytime, anywhere."
+      ]
+    },
+    {
+      "name": "Smartwatch",
+      "brief_description": "A stylish smartwatch with fitness tracking and heart rate monitoring.",
+      "reference_descriptions": [
+        "Stay connected and track your fitness goals with our latest smartwatch. Featuring heart rate monitoring, step counting, and notifications, it's the perfect companion for an active lifestyle.",
+        "Our smartwatch combines style and functionality. Monitor your heart rate, track your steps, and receive notifications directly on your wrist."
+      ]
+    },
+    {
+      "name": "Electric Kettle",
+      "brief_description": "A 1.7-liter electric kettle with rapid boil technology and auto shut-off feature.",
+      "reference_descriptions": [
+        "Boil water quickly and safely with our 1.7-liter electric kettle. Featuring rapid boil technology and an auto shut-off feature, it's perfect for any kitchen.",
+        "Our electric kettle combines speed and safety. With a 1.7-liter capacity, rapid boil technology, and auto shut-off, it's ideal for all your hot beverage needs."
+      ]
+    },
+    {
+      "name": "Gaming Laptop",
+      "brief_description": "A high-performance gaming laptop with a powerful GPU and fast refresh rate display.",
+      "reference_descriptions": [
+        "Unleash your gaming potential with our high-performance gaming laptop. Equipped with a powerful GPU and a fast refresh rate display, it delivers smooth and immersive gameplay.",
+        "Experience next-level gaming with our advanced gaming laptop. Featuring a cutting-edge GPU and a high refresh rate screen, it's designed for serious gamers."
+      ]
+    },
+    {
+      "name": "Yoga Mat",
+      "brief_description": "A non-slip, eco-friendly yoga mat with cushioning for comfort.",
+      "reference_descriptions": [
+        "Enhance your yoga practice with our eco-friendly, non-slip yoga mat. With superior cushioning, it provides comfort and stability for all poses.",
+        "Our yoga mat offers a perfect balance of comfort and grip. Made from eco-friendly materials, it's designed to support your practice with non-slip stability and plush cushioning."
+      ]
+    },
+    {
+      "name": "DSLR Camera",
+      "brief_description": "A professional-grade DSLR camera with high resolution and fast autofocus.",
+      "reference_descriptions": [
+        "Capture stunning photos with our professional-grade DSLR camera. Featuring high resolution and fast autofocus, it's perfect for both amateurs and professionals.",
+        "Take your photography to the next level with our DSLR camera. With exceptional resolution and rapid autofocus, it's ideal for capturing every moment with clarity."
+      ]
+    },
+    {
+      "name": "Blender",
+      "brief_description": "A high-speed blender with multiple settings and a durable glass jar.",
+      "reference_descriptions": [
+        "Blend smoothies, soups, and more with our high-speed blender. Featuring multiple settings and a durable glass jar, it's a versatile addition to any kitchen.",
+        "Our high-speed blender is designed for performance and durability. With a variety of settings and a sturdy glass jar, it can handle all your blending needs."
+      ]
+    },
+    {
+      "name": "Running Shoes",
+      "brief_description": "Lightweight and breathable running shoes with superior cushioning.",
+      "reference_descriptions": [
+        "Run comfortably with our lightweight and breathable running shoes. Featuring superior cushioning, they provide excellent support for long distances.",
+        "Experience comfort and performance with our running shoes. Designed for breathability and cushioning, they're perfect for runners of all levels."
+      ]
+    },
+    {
+      "name": "Coffee Maker",
+      "brief_description": "A programmable coffee maker with a built-in grinder and multiple brew settings.",
+      "reference_descriptions": [
+        "Enjoy fresh coffee every morning with our programmable coffee maker. With a built-in grinder and multiple brew settings, it's easy to make the perfect cup.",
+        "Our coffee maker combines convenience and quality. Featuring a built-in grinder and customizable brew options, it ensures a fresh and delicious coffee experience."
+      ]
+    },
+    {
+      "name": "Hair Dryer",
+      "brief_description": "A powerful hair dryer with ionic technology and multiple heat settings.",
+      "reference_descriptions": [
+        "Dry and style your hair quickly with our powerful hair dryer. Featuring ionic technology and multiple heat settings, it reduces frizz and enhances shine.",
+        "Our hair dryer offers salon-quality results at home. With advanced ionic technology and adjustable heat settings, it provides smooth and shiny hair with every use."
+      ]
+    }
+  ]
+}
